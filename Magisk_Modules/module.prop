@@ -1,6 +1,6 @@
-id=uniqueID
-name=ModulesName
+id=mi6unlockbigcorefrequency
+name=UnlockMi6BigCoreMaxFrequency
 version=v1.0
 versionCode=1
 author=abc0922001
-description=demo
+description=Unlock the maximum frequency of the big core of Mi 6
